@@ -8,4 +8,8 @@ public class HelloWorld extends Activity{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
+
+	public void test (){
+	system.out.print("hello workd");
+	}
 }
